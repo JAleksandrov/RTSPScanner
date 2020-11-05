@@ -1,2 +1,2 @@
 # RTSPScanner
-Raspberry Pi RTSP scanner
+This is a python script which was designed to run on Raspberry Pi Once the Raspberry Pi is switched on it should execute this script automatically. It will fetch from API the the raspberry pi info and will use this information to know the state of the function it needs to perform. It will search through the network using the ethernet connectivity for a DVR which has RTSP the list of URL's can be updated from the database of MySQL.
